@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.letrota1{
+    float: left;
+    width: 40px;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parrafo1{
+    width: 75%;
+}
+.foto1{
+    width: 10%;
+    float: right;
+    margin-right: 80px;
+    margin-top: -80px;
+}
+
+.foto1:hover{
+    -webkit-transform: scale(1.3);transform: scale(1.3);
+    }
+    .foto1{overflow: hidden;}
+.cancelar{clear: both;
+}
+.autor1{
+display: flex;
+justify-content: center;
+}
+.letrota2{
+    width: 40px;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.foto2{
+    width: 10%;
+    float: left;
+    margin-right: 60px;
+    padding-left: 60px;
+    }
+.parrafo2{
+    width: 60%;
+    float: right;
+    margin-right: 100px;
+}   
+.autor2{
+    display: flex;
+    justify-content: center;
+}
+
+.foto2:hover{
+    -webkit-transform: scale(1.3);transform: scale(1.3);
+    }
+    .foto2{overflow: hidden;}
+.cancelar2{clear: both;
+}
